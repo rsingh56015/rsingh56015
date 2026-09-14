@@ -1,0 +1,322 @@
+MEDANTA
+✅ Mobile number 7011209294 entered
+✅ OTP page opened
+✅ Login Successful
+✅ Calendar clicked
+✅ Date filter cleared
+🔍 Rows found
+📌 Open (551) Tickets Count: Open (551)
+👤 1st Ticket Patient Details:
+Mr. Naresh Patel (26yrs, M)
+✅ 1st ticket opened successfully
+✅ Navigated to 'Transactions' tab
+✅ Patient dropdown opened
+📋Associated lead : Total contacts: 12
+✅ First patient selected
+📋 Patient Name: Mr. Naman Kumar Gupta
+✅User click on 3dot to view the history of the appointment
+✅History of this transaction has been open
+✅Hisotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+✅History section closed
+✅ Navigated to 'Communication History' tab
+✅View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Mr. Naresh Patel, your CECT abdomen with enteroclysis appointment at Medanta Hospital, Gurugram on 2026-09-08 at 1:05 PM has been cancelled due to non-payment of Rs.13900. Please make a new booking or call Medanta support at 8800001068 for assistance. Team Medanta
+✅ Modal closed
+✅Message is now close and come back to the communication page
+✅ Navigated to 'Activity History' tab
+✅ Navigated to 'Ticket Details' tab
+✅ Navigated back to list page
+Navigated to 'Closed' tab
+🔍 Rows found
+📌 Closed (18) Tickets Count: Closed (18)
+👤 1st Ticket Patient Details:
+
+✅ 1st ticket opened successfully
+✅ Navigated to 'Transactions' tab
+✅ Patient dropdown opened
+📋Associated lead : Total contacts: 12
+✅ First patient selected
+📋 Patient Name: Mr. Abhay Pratap Singh
+✅User click on 3dot to view the history of the appointment
+✅History of this transaction has been open
+✅Hisotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+✅History section closed
+✅ Navigated to 'Communication History' tab
+✅View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Mr. Suraj Kumar Singh, This is a gentle reminder for your Advanced Lung Screening appointment at Medanta Hospital, Gurugram on 2026-08-14 between 9:00 AM and 10:00 AM. For further assistance, please call Medanta Support at 8800001068. Team Medanta
+✅ Modal closed
+✅Message is now close and come back to the communication page
+✅ Navigated to 'Activity History' tab
+✅ Navigated to 'Ticket Details' tab
+✅ Navigated back to list page
+✅ 'Closed' tab flow complete
+Leads tab opened
+✅ Calendar clicked
+✅ Date filter cleared
+🔍 Rows found
+📌 New (1815) Leads Count: New (1815)
+👤 1st Lead Patient Details:
+Mr. Testing Team (11Y-2M-16D, M)
+✅ 1st lead opened successfully
+✅ Navigated to 'Transactions' tab
+✅ Patient dropdown opened
+📋Associated lead : Total contacts: 12
+✅ First patient selected
+📋 Patient Name: Mr. Rahul Crm Testing
+✅User click on 3dot to view the history of the appointment
+✅History of this transaction has been open
+✅Hisotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+✅History section closed
+✅ Navigated to 'Communication History' tab
+✅View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Mr. Aman Kumar Singh, your CT ANGIOGRAPHY BRAIN appointment at Medanta Hospital, Gurugram on 2026-09-08 at 6:45 PM is confirmed. Please make your payment using our app at https://betamedi-ui.medanta.org:5443/patient/download or via this link: http://medantabeta-medi-ui.hlthclub.in/MEDNTA/r/u/b_dd149362ad28256cf986a1e0. You can also pay directly at the center. Kindly ignore this message if payment has already been made. For further assistance, please call Medanta Support at 8800001068.
+Note - Prescription is mandatory for all Radiology Tests. For contrast scans 4 hour of fasting and KFT report is mandatory.
+Team Medanta
+✅ Modal closed
+✅Message is now close and come back to the communication page
+✅ Navigated to 'Activity History' tab
+✅ Navigated to 'Lead Details' tab
+✅ Navigated back to list page
+Navigated to 'Follow-up' tab
+🔍 Rows found
+📌 Follow-Up (36) Leads Count: Follow-Up (36)
+👤 1st Lead Patient Details:
+
+✅ 1st lead opened successfully
+✅ Navigated to 'Transactions' tab
+✅ Patient dropdown opened
+📋Associated lead : Total contacts: 12
+✅ First patient selected
+📋 Patient Name: Mr. Rahul Crm Testing
+✅User click on 3dot to view the history of the appointment
+✅History of this transaction has been open
+✅Hisotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+✅History section closed
+✅ Navigated to 'Communication History' tab
+✅View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Mr. Aman Kumar Singh, your CT ANGIOGRAPHY BRAIN appointment at Medanta Hospital, Gurugram on 2026-09-08 at 6:45 PM is confirmed. Please make your payment using our app at https://betamedi-ui.medanta.org:5443/patient/download or via this link: http://medantabeta-medi-ui.hlthclub.in/MEDNTA/r/u/b_dd149362ad28256cf986a1e0. You can also pay directly at the center. Kindly ignore this message if payment has already been made. For further assistance, please call Medanta Support at 8800001068.
+Note - Prescription is mandatory for all Radiology Tests. For contrast scans 4 hour of fasting and KFT report is mandatory.
+Team Medanta
+✅ Modal closed
+✅Message is now close and come back to the communication page
+✅ Navigated to 'Activity History' tab
+✅ Navigated to 'Lead Details' tab
+✅ Navigated back to list page
+✅ 'Follow-up' tab flow complete
+🔍 Rows found
+📌 New (81) Leads Count: New (81)
+👤 1st Lead Patient Details:
+Mr. Testing Team (11Y-2M-16D, M)
+✅ 1st lead opened successfully
+✅Doctor Consult clicked
+✅All Bookings tab clicked
+✅New Booking tab clicked
+✅Region dropdown clicked
+✅ Region selected : Delhi NCR
+✅ Hospital dropdown clicked
+✅ Hospital selected : All Hospitals/Clinics
+✅ Doctor dropdown is clicked successfully
+Sanjay Mittal selected
+✅ Doctor selected: Dr Sanjay Mittal
+Search clicked
+✅ Earliest availability clicked
+✅ Select Slot clicked
+✅ Modal closed
+✅ Select Slot clicked again for booking
+Looking for available time slots...
+✅ Slot selected: 8:25 PM
+✅ Add to cart clicked
+✅ Proceed to cart clicked
+✅ Add more services clicked
+✅ Radiology/Other Diagnostic clicked
+✅ Radiology clicked
+✅All Bookings tab clicked
+✅New Booking tab clicked
+Region dropdown clicked
+✅ Region selected : Delhi NCR
+Hospital dropdown clicked
+✅ Hospital selected : All Hospitals/Clinics
+Modality dropdown is clicked successfully
+✅ 'COMPUTERISED TOMOGRAPHY' selected
+✅ Radiology test dropdown is clicked successfully
+⚠️ Direct click failed/timed out. Attempting Keyboard Navigation fallback...
+✅ CT ANGIOGRAPHY BRAIN selected via Keyboard Enter
+Search button is clicked
+✅ Earliest availability is clicked successfully
+Looking for available time slots...
+✅ Slot selected: 8:30 PM
+✅ Radiology booked and added to cart
+✅ Add more services clicked
+✅ Lab clicked
+✅ Lab @ Hospital selected
+✅ Hospital selected: Medanta Hospital, Gurugram
+✅ Continue clicked
+✅ Search button is clicked successfully
+✅ Lab test added to cart
+✅ Redirect to the cart page after clicking on cart button
+✅ Add More Lab button is clicked successfully
+✅ Additional lab test added to cart
+✅ Redirect to the cart page after clicking on cart button
+✅ The select slot pop-up is opened successfully
+Looking for available time slots...
+✅ Slot selected: 8:30 PM - 8:35 PM
+✅ Lab slot confirmed
+✅ Add more services clicked
+✅ EHC clicked
+✅ Redirect to the All Bookings Page
+✅ Redirect to the New Booking Page
+✅ Region dropdown is clicked successfully
+✅ Region selected : Delhi NCR
+✅ Hospital dropdown is clicked successfully
+✅ Hospital selected : All Hospitals/Clinics
+✅ EHC test dropdown is clicked successfully
+✅ Medanta Basic Health Check selected
+✅ Search button clicked
+✅ Earliest availability clicked : Get Earliest Availability
+✅ Select slot button clicked
+Looking for available time slots...
+✅ Slot selected: 8:30 PM - 8:35 PM
+✅ EHC added to cart
+✅ Book Now button clicked
+✅ Confirm Booking button clicked
+✅ Modal closed
+Call Log tab opened
+✅ Calendar clicked
+✅ Date filter cleared
+First call log opened
+Waiting 10 seconds for UHID entry...
+Default UHID entered: MM02929789
+🎉 Data loaded successfully for UHID
+Waiting 10 seconds for phone number entry...
+Default phone entered: 3819000000
+Found 22 patients matching your search query.
+Advanced Search closed
+Add new contact clicked
+Title set: Mr.
+First name set: Rajan
+Last name set: Kumar
+DOB set: 1997-Mar-29
+Gender set: male
+Email set: rohit.sharma@thb.co.in
+✅ Contact created
+✅ Patient dropdown open
+✅ Patient selected
+✅ Navigated to Patient 360
+✅Doctor Consult clicked
+✅All Bookings tab clicked
+✅New Booking tab clicked
+✅Region dropdown clicked
+✅ Region selected : Delhi NCR
+✅ Hospital dropdown clicked
+✅ Hospital selected : All Hospitals/Clinics
+✅ Doctor dropdown is clicked successfully
+Sanjay Mittal selected
+✅ Doctor selected: Dr Sanjay Mittal
+Search clicked
+✅ Earliest availability clicked
+✅ Select Slot clicked
+✅ Modal closed
+✅ Select Slot clicked again for booking
+Looking for available time slots...
+✅ Slot selected: 8:35 PM
+✅ Add to cart clicked
+✅ Proceed to cart clicked
+✅ Address line 1 : Paras Society,Sector 105
+✅ Address line 2 : Gurugram,Haryana
+✅ Pincode : 122001
+✅ Patient created
+✅ Add more services clicked
+✅ Radiology/Other Diagnostic clicked
+✅ Radiology clicked
+✅All Bookings tab clicked
+✅New Booking tab clicked
+Region dropdown clicked
+✅ Region selected : Delhi NCR
+Hospital dropdown clicked
+✅ Hospital selected : All Hospitals/Clinics
+Modality dropdown is clicked successfully
+✅ 'COMPUTERISED TOMOGRAPHY' selected
+✅ Radiology test dropdown is clicked successfully
+⚠️ Direct click failed/timed out. Attempting Keyboard Navigation fallback...
+✅ CT ANGIOGRAPHY BRAIN selected via Keyboard Enter
+Search button is clicked
+✅ Earliest availability is clicked successfully
+Looking for available time slots...
+✅ Slot selected: 9:00 PM
+✅ Radiology booked and added to cart
+✅ Add more services clicked
+✅ Lab clicked
+✅ Lab @ Hospital selected
+✅ Hospital selected: Medanta Hospital, Gurugram
+✅ Continue clicked
+✅ Search button is clicked successfully
+✅ Lab test added to cart
+✅ Redirect to the cart page after clicking on cart button
+✅ Add More Lab button is clicked successfully
+✅ Additional lab test added to cart
+✅ Redirect to the cart page after clicking on cart button
+✅ The select slot pop-up is opened successfully
+Looking for available time slots...
+✅ Slot selected: 8:35 PM - 8:40 PM
+✅ Lab slot confirmed
+✅ Add more services clicked
+✅ EHC clicked
+✅ Redirect to the All Bookings Page
+✅ Redirect to the New Booking Page
+✅ Region dropdown is clicked successfully
+✅ Region selected : Delhi NCR
+✅ Hospital dropdown is clicked successfully
+✅ Hospital selected : All Hospitals/Clinics
+✅ EHC test dropdown is clicked successfully
+✅ Medanta Basic Health Check selected
+✅ Search button clicked
+✅ Earliest availability clicked : Get Earliest Availability
+✅ Select slot button clicked
+Looking for available time slots...
+✅ Slot selected: 8:40 PM - 8:45 PM
+✅ EHC added to cart
+✅ Book Now button clicked
+✅ Confirm Booking button clicked
+✅ Modal closed
+✅ Navigated to 'Communication History' tab
+✅View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Mr. Rajan Kumar, your In-Hospital Consultation appointment with Dr Sanjay Mittal, scheduled at Medanta Hospital, Gurugram on 2026-09-08 at 8:35 PM, is confirmed. Please complete your payment using our app: https://betamedi-ui.medanta.org:5443/patient/download or through this link: http://medantabeta-medi-ui.hlthclub.in/MEDNTA/r/u/b_15f3f8f84eb9f26a00edf8f2 or you may pay directly at the center. Kindly ignore this message if payment has already been made. Team Medanta
+✅ Modal closed
+✅Message is now close and come back to the communication page
+✅ Navigated to 'Communication History' tab
+View Message opened
+Payment link clicked: http://medantabeta-medi-ui.hlthclub.in/MEDNTA/r/u/b_15f3f8f84eb9f26a00edf8f2
+Waiting 90 seconds for payment to complete...
+✅ Modal closed
+
+❌ CRITICAL ERROR in main flow: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff62b79e035+5745]
+	chromedriver!(No symbol) [0x7ff62b6c6a90]
+	chromedriver!(No symbol) [0x7ff62b4f5d7d]
+	chromedriver!(No symbol) [0x7ff62b5509ea]
+	chromedriver!(No symbol) [0x7ff62b550cfc]
+	chromedriver!(No symbol) [0x7ff62b5a18f7]
+	chromedriver!(No symbol) [0x7ff62b59e502]
+	chromedriver!(No symbol) [0x7ff62b542e4b]
+	chromedriver!(No symbol) [0x7ff62b543d83]
+	chromedriver!GetHandleVerifier [0x7ff62bbb2f8b+41a69b]
+	chromedriver!GetHandleVerifier [0x7ff62bbe0132+447842]
+	chromedriver!GetHandleVerifier [0x7ff62bbd3e7e+43b58e]
+	chromedriver!GetHandleVerifier [0x7ff62b893f5e+fb66e]
+	chromedriver!(No symbol) [0x7ff62b6d419c]
+	chromedriver!(No symbol) [0x7ff62b6cfdd4]
+	chromedriver!(No symbol) [0x7ff62b6cff64]
+	chromedriver!(No symbol) [0x7ff62b6ba91c]
+	KERNEL32!BaseThreadInitThunk [0x7ff873ffccb7+17]
+	ntdll!RtlUserThreadStart [0x7ff874caad6c+2c]
+

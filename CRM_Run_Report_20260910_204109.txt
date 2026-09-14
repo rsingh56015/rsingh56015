@@ -1,0 +1,316 @@
+MEDANTA
+✅ Mobile number 7011209294 entered
+✅ OTP page opened
+✅ Login Successful
+✅ Calendar clicked
+✅ Date filter cleared
+🔍 Rows found
+📌 Open (551) Tickets Count: Open (551)
+👤 1st Ticket Patient Details:
+Mr. Naresh Patel (26yrs, M)
+✅ 1st ticket opened successfully
+✅ Navigated to 'Transactions' tab
+✅ Patient dropdown opened
+📋Associated lead : Total contacts: 12
+✅ First patient selected
+📋 Patient Name: Mr. Naman Kumar Gupta
+✅User click on 3dot to view the history of the appointment
+✅History of this transaction has been open
+✅Hisotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+✅History section closed
+✅ Navigated to 'Communication History' tab
+✅View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Mr. Naresh Patel, your CECT abdomen with enteroclysis appointment at Medanta Hospital, Gurugram on 2026-09-08 at 1:05 PM has been cancelled due to non-payment of Rs.13900. Please make a new booking or call Medanta support at 8800001068 for assistance. Team Medanta
+✅ Modal closed
+✅Message is now close and come back to the communication page
+✅ Navigated to 'Activity History' tab
+✅ Navigated to 'Ticket Details' tab
+✅ Navigated back to list page
+More Filters opened
+'Agent' filter clicked — any selection or blank is acceptable
+'Branch' filter clicked — any selection or blank is acceptable
+'Ticket Type' filter clicked — any selection or blank is acceptable
+'Ticket Sub Type' filter clicked — any selection or blank is acceptable
+'Category' filter clicked — any selection or blank is acceptable
+'Priority' filter clicked — any selection or blank is acceptable
+'Source' filter clicked — any selection or blank is acceptable
+More Filters closed
+Download button clicked
+Report Type: ticket_report
+Date range: Start=7, End=10
+✅ Start date selected: 7
+✅ End date selected: 10
+Email entered: rsingh@medanta.org
+✅ Report submitted — email will be sent
+Navigated to 'Closed' tab
+🔍 Rows found
+📌 Closed (18) Tickets Count: Closed (18)
+👤 1st Ticket Patient Details:
+
+✅ 1st ticket opened successfully
+✅ Navigated to 'Transactions' tab
+✅ Patient dropdown opened
+📋Associated lead : Total contacts: 12
+✅ First patient selected
+📋 Patient Name: Mr. Abhay Pratap Singh
+✅User click on 3dot to view the history of the appointment
+✅History of this transaction has been open
+✅Hisotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+✅History section closed
+✅ Navigated to 'Communication History' tab
+✅View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Mr. Suraj Kumar Singh, This is a gentle reminder for your Advanced Lung Screening appointment at Medanta Hospital, Gurugram on 2026-08-14 between 9:00 AM and 10:00 AM. For further assistance, please call Medanta Support at 8800001068. Team Medanta
+✅ Modal closed
+✅Message is now close and come back to the communication page
+✅ Navigated to 'Activity History' tab
+✅ Navigated to 'Ticket Details' tab
+✅ Navigated back to list page
+✅ 'Closed' tab flow complete
+Leads tab opened
+✅ Calendar clicked
+✅ Date filter cleared
+🔍 Rows found
+📌 New (1833) Leads Count: New (1833)
+👤 1st Lead Patient Details:
+Mr. Gaurav Chugh (35Y-2M-7D, M)
+✅ 1st lead opened successfully
+✅ Navigated to 'Transactions' tab
+✅ Patient dropdown opened
+📋Associated lead : Total contacts: 12
+✅ First patient selected
+📋 Patient Name: Mrs. Temt Patiemt
+✅User click on 3dot to view the history of the appointment
+✅History of this transaction has been open
+✅Hisotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+✅History section closed
+✅ Navigated to 'Communication History' tab
+✅View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Mr. Gaurav Chugh, your VC Consultation appointment with  Dr Kartikeya Bhargava for 2026-09-10 at 6:35 PM has been cancelled due to non-payment of the consultation fee of Rs. 1800. Please make another booking or call Medanta support at 8800001068 for assistance. Team Medanta
+✅ Modal closed
+✅Message is now close and come back to the communication page
+✅ Navigated to 'Activity History' tab
+✅ Navigated to 'Lead Details' tab
+✅ Navigated back to list page
+Navigated to 'Follow-up' tab
+🔍 Rows found
+📌 Follow-Up (36) Leads Count: Follow-Up (36)
+👤 1st Lead Patient Details:
+
+✅ 1st lead opened successfully
+✅ Navigated to 'Transactions' tab
+✅ Patient dropdown opened
+📋Associated lead : Total contacts: 12
+✅ First patient selected
+📋 Patient Name: Mr. Rahul Crm Testing
+✅User click on 3dot to view the history of the appointment
+✅History of this transaction has been open
+✅Hisotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+✅History section closed
+✅ Navigated to 'Communication History' tab
+✅View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Mr. Rahul Crm Testing, your Lab service(s) appointment at Medanta Hospital, Gurugram on 2026-09-09 between 6:25 PM and 6:30 PM is confirmed. Please make your payment using our app at https://betamedi-ui.medanta.org:5443/patient/download or via this link: http://medantabeta-medi-ui.hlthclub.in/MEDNTA/r/u/b_00def19ba04e712e673be795. You can also pay directly at the center. Kindly ignore this message if payment has already been made.Team Medanta
+✅ Modal closed
+✅Message is now close and come back to the communication page
+✅ Navigated to 'Activity History' tab
+✅ Navigated to 'Lead Details' tab
+✅ Navigated back to list page
+✅ 'Follow-up' tab flow complete
+🔍 Rows found
+📌 New (86) Leads Count: New (86)
+👤 1st Lead Patient Details:
+Mr. Rahul Crm Testing (29Y-5M-12D, M)
+✅ 1st lead opened successfully
+✅Doctor Consult clicked
+✅All Bookings tab clicked
+✅New Booking tab clicked
+✅Region dropdown clicked
+✅ Region selected : Delhi NCR
+✅ Hospital dropdown clicked
+✅ Hospital selected : All Hospitals/Clinics
+✅ Doctor dropdown is clicked successfully
+Sanjay Mittal selected
+✅ Doctor selected: Dr Sanjay Mittal
+Search clicked
+✅ Earliest availability clicked
+✅ Select Slot clicked
+✅ Modal closed
+✅ Select Slot clicked again for booking
+Looking for available time slots...
+✅ Slot selected: 8:55 PM
+✅ Add to cart clicked
+✅ Proceed to cart clicked
+✅ Edit slot clicked
+Looking for available time slots...
+✅ Slot selected: 9:00 PM
+✅ Add to cart (re-edit) clicked
+✅ Proceed to cart (re-edit) clicked
+✅ Add more services clicked
+✅ Radiology/Other Diagnostic clicked
+✅ Radiology clicked
+✅All Bookings tab clicked
+✅New Booking tab clicked
+Region dropdown clicked
+✅ Region selected : Delhi NCR
+Hospital dropdown clicked
+✅ Hospital selected : All Hospitals/Clinics
+Modality dropdown is clicked successfully
+✅ 'COMPUTERISED TOMOGRAPHY' selected
+✅ Radiology test dropdown is clicked successfully
+⚠️ Direct click failed/timed out. Attempting Keyboard Navigation fallback...
+✅ CT ANGIOGRAPHY BRAIN selected via Keyboard Enter
+Search button is clicked
+✅ Earliest availability is clicked successfully
+Looking for available time slots...
+✅ Slot selected: 8:55 PM
+✅ Radiology booked and added to cart
+✅ Add more services clicked
+✅ Lab clicked
+✅ Lab @ Hospital selected
+Hospital dropdown is clicked successfully
+✅ Hospital selected: Medanta Hospital, Gurugram
+✅ Continue clicked
+✅ Search button is clicked successfully
+✅ Lab test added to cart
+✅ Redirect to the cart page after clicking on cart button
+✅ Add More Lab button is clicked successfully
+✅ Additional lab test added to cart
+✅ Redirect to the cart page after clicking on cart button
+✅ The select slot pop-up is opened successfully
+Looking for available time slots...
+✅ Slot selected: 8:55 PM - 9:00 PM
+✅ Lab slot confirmed
+✅ Add more services clicked
+✅ EHC clicked
+✅ Redirect to the All Bookings Page
+✅ Redirect to the New Booking Page
+✅ Region dropdown is clicked successfully
+✅ Region selected : Delhi NCR
+✅ Hospital dropdown is clicked successfully
+✅ Hospital selected : All Hospitals/Clinics
+✅ EHC test dropdown is clicked successfully
+✅ Medanta Basic Health Check selected
+✅ Search button clicked
+✅ Earliest availability clicked : Get Earliest Availability
+✅ Select slot button clicked
+Looking for available time slots...
+✅ Slot selected: 8:55 PM - 9:00 PM
+✅ EHC added to cart
+✅ Book Now button clicked
+✅ Confirm Booking button clicked
+✅ Modal closed
+✅ Navigated to 'Communication History' tab
+View Message opened
+Payment link clicked: http://medantabeta-medi-ui.hlthclub.in/MEDNTA/r/u/b_440b16bbcc25edfa4337e944
+Waiting 60 seconds for payment to complete...
+✅ Switched back From Payment tab to CRM tab
+✅ Modal closed
+Back to Lead Details tab
+✅User clicked on the OPD tab
+✅User remove the speciality filter
+✅ Speciality dropdown is clicked successfully
+✅ All Speciality selected
+✅ Doctor dropdown clicked
+🔍 Searching for All Doctors
+✅ All Doctors selected
+✅ Search button clicked : All Appointments are visible
+✅ All Appts. : 6
+✅ Check-In : 0
+✅ Check-Out : 1
+✅ Cancel : 1
+✅ Confirmed : 5
+✅ Queue : 0
+✅ Service dropdown clicked
+✅ 'EHC' selected
+✅ Search button clicked : All Appointments are visible
+✅ All Appts. : 1
+✅ Cancel : 0
+✅ Confirmed : 1
+✅ Service dropdown clicked
+✅ 'Radiology' selected
+✅ Machine dropdown clicked
+✅ 'All Machine' selected
+✅ Search button clicked : All Appointments are visible
+✅ All Appts. : 1
+✅ Cancel : 0
+✅ Confirmed : 1
+Call Log tab opened
+✅ Calendar clicked
+✅ Date filter cleared
+First call log opened
+Waiting 10 seconds for UHID entry...
+Default UHID entered: MM02929789
+🎉 Data loaded successfully for UHID
+Waiting 10 seconds for phone number entry...
+Default phone entered: 3818000000
+Found 22 patients matching your search query.
+Advanced Search closed
+Add new contact clicked
+Title set: Mr.
+First name set: Rajan
+Last name set: Kumar
+DOB set: 1997-Mar-29
+Gender set: male
+Email set: rohit.sharma@thb.co.in
+✅ Contact created
+✅ Patient dropdown open
+✅ Patient selected
+✅ Navigated to Patient 360
+✅Doctor Consult clicked
+✅All Bookings tab clicked
+✅New Booking tab clicked
+✅Region dropdown clicked
+✅ Region selected : Delhi NCR
+✅ Hospital dropdown clicked
+✅ Hospital selected : All Hospitals/Clinics
+✅ Doctor dropdown is clicked successfully
+Sanjay Mittal selected
+✅ Doctor selected: Dr Sanjay Mittal
+Search clicked
+✅ Earliest availability clicked
+✅ Select Slot clicked
+✅ Modal closed
+✅ Select Slot clicked again for booking
+Looking for available time slots...
+✅ Slot selected: 9:10 PM
+✅ Add to cart clicked
+✅ Proceed to cart clicked
+✅ Address line 1 : Paras Society,Sector 105
+✅ Address line 2 : Gurugram,Haryana
+✅ Pincode : 122001
+✅ Patient created
+
+❌ CRITICAL ERROR in main flow: Message: element click intercepted: Element <button type="button" class="ant-btn ant-btn-default ant-btn-sm crm-outline-btn crm-outline-btn-sm">...</button> is not clickable at point (1193, 681). Other element would receive the click: <span class="ant-collapse-header-text">...</span>
+  (Session info: chrome=152.0.7977.75); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7d82ae035+5745]
+	chromedriver!(No symbol) [0x7ff7d81d6a90]
+	chromedriver!(No symbol) [0x7ff7d8005d7d]
+	chromedriver!(No symbol) [0x7ff7d80687e3]
+	chromedriver!(No symbol) [0x7ff7d8066413]
+	chromedriver!(No symbol) [0x7ff7d8063767]
+	chromedriver!(No symbol) [0x7ff7d8062630]
+	chromedriver!(No symbol) [0x7ff7d8054d88]
+	chromedriver!(No symbol) [0x7ff7d80895ca]
+	chromedriver!(No symbol) [0x7ff7d8054606]
+	chromedriver!(No symbol) [0x7ff7d80ae502]
+	chromedriver!(No symbol) [0x7ff7d8052e4b]
+	chromedriver!(No symbol) [0x7ff7d8053d83]
+	chromedriver!GetHandleVerifier [0x7ff7d86c2f8b+41a69b]
+	chromedriver!GetHandleVerifier [0x7ff7d86f0132+447842]
+	chromedriver!GetHandleVerifier [0x7ff7d86e3e7e+43b58e]
+	chromedriver!GetHandleVerifier [0x7ff7d83a3f5e+fb66e]
+	chromedriver!(No symbol) [0x7ff7d81e419c]
+	chromedriver!(No symbol) [0x7ff7d81dfdd4]
+	chromedriver!(No symbol) [0x7ff7d81dff64]
+	chromedriver!(No symbol) [0x7ff7d81ca91c]
+	KERNEL32!BaseThreadInitThunk [0x7ff873ffccb7+17]
+	ntdll!RtlUserThreadStart [0x7ff874caad6c+2c]
+

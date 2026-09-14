@@ -1,0 +1,334 @@
+
+✅ Mobile number 8851910707 entered
+✅ OTP page opened
+⏳ Please enter the 6-digit OTP on the browser screen within 20 seconds...
+✅Submit button clicked
+✅ Login Successful
+✅ Calendar clicked
+✅ Date filter cleared
+🔍 Rows found
+📌 Open (110637) Tickets Count: Open (110637)
+👤 1st Ticket Patient Details:
+Nitish Rai (34yrs, M)
+✅ 1st ticket opened successfully
+✅Navigated to 'Transactions' tab
+✅Patient dropdown clicked
+📋Total contacts: 2
+✅ First patient selected
+📋 Patient Name: Nitish Rai
+✅User click on 3dot to view the history of the appointment
+✅History of this transaction has been open
+✅Hisotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+✅History section closed
+✅Navigated to 'Communication History' tab
+✅View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Nitish Rai, we've received your payment of Rs. 4000 with transaction ID pay_Ta19rCngUWYIMm. Your In-Hospital Consultation appointment with Dr Randhir Sud at Defence Colony Mediclinic, Delhi on 2026-10-01 at 9:20 AM is confirmed. Team Medanta
+✅ Modal closed
+✅Message is now close and come back to the communication page
+✅Navigated to 'Activity History' tab
+✅Navigated to 'Ticket Details' tab
+✅Navigated back to list page
+More Filters opened
+'Agent' filter clicked — any selection or blank is acceptable
+'Branch' filter clicked — any selection or blank is acceptable
+'Ticket Type' filter clicked — any selection or blank is acceptable
+'Ticket Sub Type' filter clicked — any selection or blank is acceptable
+'Category' filter clicked — any selection or blank is acceptable
+'Priority' filter clicked — any selection or blank is acceptable
+'Source' filter clicked — any selection or blank is acceptable
+More Filters closed
+Download button clicked
+Report Type: ticket_report
+Date range: Start=8, End=9
+✅ Start date selected: 8
+✅ End date selected: 9
+Email entered: rahulkumar@thb.co.in
+✅ Report submitted — email will be sent
+Navigated to 'Follow-up' tab
+🔍 Rows found
+📌 Follow-Up (1082) Tickets Count: Follow-Up (1082)
+👤 1st Ticket Patient Details:
+
+✅ 1st ticket opened successfully
+✅Navigated to 'Transactions' tab
+✅Patient dropdown clicked
+📋Total contacts: 12
+✅ First patient selected
+📋 Patient Name: Mrs. Priyanka Roy
+✅User click on 3dot to view the history of the appointment
+✅History of this transaction has been open
+✅Hisotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+✅History section closed
+✅Navigated to 'Communication History' tab
+✅View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Priyanka Roy, Your In-Hospital Consultation appointment with Dr. DFD Sanity Test on 2026-09-07 at 11:50 PM has been cancelled. Please contact us at 8800001068 or use our app https://care.medanta.org/patient/download to book another appointment. Team Medanta
+✅ Modal closed
+✅Message is now close and come back to the communication page
+✅Navigated to 'Activity History' tab
+✅Navigated to 'Ticket Details' tab
+✅Navigated back to list page
+✅ 'Follow-up' tab flow complete
+Leads tab opened
+✅ Calendar clicked
+✅ Date filter cleared
+🔍 Rows found
+📌 New (83) Leads Count: New (83)
+👤 1st Lead Patient Details:
+Mrs. Priyanka Roy (26Y-8M-8D, F)
+✅ 1st lead opened successfully
+✅Navigated to 'Transactions' tab
+✅Patient dropdown clicked
+📋Total contacts: 12
+✅ First patient selected
+📋 Patient Name: Mrs. Priyanka Roy
+✅User click on 3dot to view the history of the appointment
+✅History of this transaction has been open
+✅Hisotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+✅History section closed
+✅Navigated to 'Communication History' tab
+✅View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Priyanka Roy, Your In-Hospital Consultation appointment with Dr. DFD Sanity Test on 2026-09-07 at 11:50 PM has been cancelled. Please contact us at 8800001068 or use our app https://care.medanta.org/patient/download to book another appointment. Team Medanta
+✅ Modal closed
+✅Message is now close and come back to the communication page
+✅Navigated to 'Activity History' tab
+✅Navigated to 'Lead Details' tab
+✅Navigated back to list page
+Navigated to 'Follow-up' tab
+🔍 Rows found
+📌 Follow-Up (8) Leads Count: Follow-Up (8)
+👤 1st Lead Patient Details:
+
+✅ 1st lead opened successfully
+✅Navigated to 'Transactions' tab
+✅Patient dropdown clicked
+📋Total contacts: 12
+✅ First patient selected
+📋 Patient Name: Mrs. Priyanka Roy
+✅User click on 3dot to view the history of the appointment
+✅History of this transaction has been open
+✅Hisotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+✅History section closed
+✅Navigated to 'Communication History' tab
+✅View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Priyanka Roy, Your In-Hospital Consultation appointment with Dr. DFD Sanity Test on 2026-09-07 at 11:50 PM has been cancelled. Please contact us at 8800001068 or use our app https://care.medanta.org/patient/download to book another appointment. Team Medanta
+✅ Modal closed
+✅Message is now close and come back to the communication page
+✅Navigated to 'Activity History' tab
+✅Navigated to 'Lead Details' tab
+✅Navigated back to list page
+✅ 'Follow-up' tab flow complete
+🔍 Rows found
+📌 New (83) Leads Count: New (83)
+👤 1st Lead Patient Details:
+Mrs. Priyanka Roy (26Y-8M-8D, F)
+✅ 1st lead opened successfully
+✅Doctor Consult clicked
+✅All Bookings tab clicked
+✅New Booking tab clicked
+✅Region dropdown clicked
+✅ Region selected : Delhi NCR
+✅ Hospital dropdown clicked
+✅ Hospital selected : All Hospitals/Clinics
+✅ Doctor dropdown is clicked successfully
+Dr. DFD Sanity Test selected
+✅ Doctor selected: Dr. DFD Sanity Test
+Search clicked
+✅ Earliest availability clicked
+✅ Select Slot clicked
+✅ Modal closed
+✅ Select Slot clicked again for booking
+Looking for available time slots...
+✅ Slot selected: 11:20 PM
+✅ Add to cart clicked
+✅ Proceed to cart clicked
+✅ Edit slot clicked
+Looking for available time slots...
+✅ Slot selected: 11:25 PM
+✅ Add to cart (re-edit) clicked
+✅ Proceed to cart (re-edit) clicked
+✅ Add more services clicked
+✅ Radiology/Other Diagnostic clicked
+✅ Radiology clicked
+✅All Bookings tab clicked
+✅New Booking tab clicked
+Region dropdown clicked
+✅ Region selected : Delhi NCR
+Hospital dropdown clicked
+✅ Hospital selected : All Hospitals/Clinics
+Modality dropdown is clicked successfully
+✅ 'COMPUTERISED TOMOGRAPHY' selected
+✅ Radiology test dropdown is clicked successfully
+⚠️ Direct click failed/timed out. Attempting Keyboard Navigation fallback...
+✅ CT ANGIOGRAPHY BRAIN selected via Keyboard Enter
+Search button is clicked
+✅ Earliest availability is clicked successfully
+Looking for available time slots...
+✅ Slot selected: 7:15 AM
++2 more
+✅ Radiology booked and added to cart
+✅ Add more services clicked
+✅ Lab clicked
+✅ Lab @ Hospital selected
+✅ Hospital selected: Medanta Hospital Gurugram
+✅ Continue clicked
+✅ Search button is clicked successfully
+✅ Lab test added to cart
+✅ Redirect to the cart page after clicking on cart button
+✅ Add More Lab button is clicked successfully
+✅ Additional lab test added to cart
+✅ Redirect to the cart page after clicking on cart button
+✅ The select slot pop-up is opened successfully
+Looking for available time slots...
+✅ Slot selected: 8:40 AM - 8:50 AM
+✅ Lab slot confirmed
+✅ Add more services clicked
+✅ EHC clicked
+✅ Redirect to the All Bookings Page
+✅ Redirect to the New Booking Page
+✅ Region dropdown is clicked successfully
+✅ Region selected : Delhi NCR
+✅ Hospital dropdown is clicked successfully
+✅ Hospital selected : All Hospitals/Clinics
+✅ EHC test dropdown is clicked successfully
+✅ Medanta Basic Health Check selected
+✅ Search button clicked
+✅ Earliest availability clicked : Get Earliest Availability
+✅ Select slot button clicked
+Looking for available time slots...
+✅ Slot selected: 10:30 AM - 11:00 AM
+EHC
+✅ EHC added to cart
+✅ Book Now button clicked
+✅ Confirm Booking button clicked
+✅ Modal closed
+Call Log tab opened
+✅ Calendar clicked
+✅ Date filter cleared
+First call log opened
+Waiting 10 seconds for UHID entry...
+Default UHID entered: MM02929789
+🎉 Data loaded successfully for UHID
+Waiting 10 seconds for phone number entry...
+Default phone entered: 3479000000
+Found 50 patients matching your search query.
+Advanced Search closed
+Add new contact clicked
+Title set: Mr.
+First name set: Ranjan
+Last name set: Kumar
+DOB set: 1997-Mar-29
+Gender set: male
+Email set: rohit.sharma@thb.co.in
+✅ Contact created
+✅ Patient dropdown open
+✅ Patient selected
+✅ Navigated to Patient 360
+✅Doctor Consult clicked
+✅All Bookings tab clicked
+✅New Booking tab clicked
+✅Region dropdown clicked
+✅ Region selected : Delhi NCR
+✅ Hospital dropdown clicked
+✅ Hospital selected : All Hospitals/Clinics
+✅ Doctor dropdown is clicked successfully
+Dr. DFD Sanity Test selected
+✅ Doctor selected: Dr. DFD Sanity Test
+Search clicked
+✅ Earliest availability clicked
+✅ Select Slot clicked
+✅ Modal closed
+✅ Select Slot clicked again for booking
+Looking for available time slots...
+✅ Slot selected: 11:20 PM
+✅ Add to cart clicked
+✅ Proceed to cart clicked
+✅ Address line 1 : Paras Society,Sector 105
+✅ Address line 2 : Gurugram,Haryana
+✅ Pincode : 122001
+✅ Patient created
+✅ Add more services clicked
+✅ Radiology/Other Diagnostic clicked
+✅ Radiology clicked
+✅All Bookings tab clicked
+✅New Booking tab clicked
+Region dropdown clicked
+✅ Region selected : Delhi NCR
+Hospital dropdown clicked
+✅ Hospital selected : All Hospitals/Clinics
+Modality dropdown is clicked successfully
+✅ 'COMPUTERISED TOMOGRAPHY' selected
+✅ Radiology test dropdown is clicked successfully
+⚠️ Direct click failed/timed out. Attempting Keyboard Navigation fallback...
+✅ CT ANGIOGRAPHY BRAIN selected via Keyboard Enter
+Search button is clicked
+✅ Earliest availability is clicked successfully
+Looking for available time slots...
+✅ Slot selected: 7:15 AM
++2 more
+✅ Radiology booked and added to cart
+✅ Add more services clicked
+✅ Lab clicked
+✅ Lab @ Hospital selected
+✅ Hospital selected: Medanta Hospital Gurugram
+✅ Continue clicked
+✅ Search button is clicked successfully
+✅ Lab test added to cart
+✅ Redirect to the cart page after clicking on cart button
+✅ Add More Lab button is clicked successfully
+✅ Additional lab test added to cart
+✅ Redirect to the cart page after clicking on cart button
+✅ The select slot pop-up is opened successfully
+Looking for available time slots...
+✅ Slot selected: 8:40 AM - 8:50 AM
+✅ Lab slot confirmed
+✅ Add more services clicked
+✅ EHC clicked
+✅ Redirect to the All Bookings Page
+✅ Redirect to the New Booking Page
+✅ Region dropdown is clicked successfully
+✅ Region selected : Delhi NCR
+✅ Hospital dropdown is clicked successfully
+✅ Hospital selected : All Hospitals/Clinics
+✅ EHC test dropdown is clicked successfully
+✅ Medanta Basic Health Check selected
+✅ Search button clicked
+✅ Earliest availability clicked : Get Earliest Availability
+✅ Select slot button clicked
+Looking for available time slots...
+✅ Slot selected: 10:30 AM - 11:00 AM
+EHC
+✅ EHC added to cart
+✅ Book Now button clicked
+✅ Confirm Booking button clicked
+✅ Modal closed
+
+❌ CRITICAL ERROR in main flow: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6569be035+5745]
+	chromedriver!(No symbol) [0x7ff6568e6a90]
+	chromedriver!(No symbol) [0x7ff656715d7d]
+	chromedriver!(No symbol) [0x7ff6567709ea]
+	chromedriver!(No symbol) [0x7ff656770cfc]
+	chromedriver!(No symbol) [0x7ff6567c18f7]
+	chromedriver!(No symbol) [0x7ff6567be502]
+	chromedriver!(No symbol) [0x7ff656762e4b]
+	chromedriver!(No symbol) [0x7ff656763d83]
+	chromedriver!GetHandleVerifier [0x7ff656dd2f8b+41a69b]
+	chromedriver!GetHandleVerifier [0x7ff656e00132+447842]
+	chromedriver!GetHandleVerifier [0x7ff656df3e7e+43b58e]
+	chromedriver!GetHandleVerifier [0x7ff656ab3f5e+fb66e]
+	chromedriver!(No symbol) [0x7ff6568f419c]
+	chromedriver!(No symbol) [0x7ff6568efdd4]
+	chromedriver!(No symbol) [0x7ff6568eff64]
+	chromedriver!(No symbol) [0x7ff6568da91c]
+	KERNEL32!BaseThreadInitThunk [0x7ff873ffccb7+17]
+	ntdll!RtlUserThreadStart [0x7ff874caad6c+2c]
+

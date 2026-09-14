@@ -1,0 +1,357 @@
+MEDANTA
+✅ Mobile number 7011209294 entered
+✅ OTP page opened
+✅ Login Successful
+✅ Calendar clicked
+✅ Date filter cleared
+🔍 Rows found: 10
+📌 Open (550) Tickets Count: Open (550)
+✅ 1st ticket opened successfully
+✅ Navigated to 'Transactions' tab
+✅ Patient dropdown opened
+📋Associated lead : Total contacts: 0
+✅ First patient selected
+📋 Patient Name: Mr. Xy Z
+User click on 3dot to view the history of the appointment
+History of this transaction has been open
+isotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+History section closed
+✅ Navigated to 'Communication History' tab
+View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Mr. Xy Z, your VC Consultation appointment with Dr Sanjay Mittal on 2026-09-07 at 4:35 PM is confirmed. Please pay directly at the center (if applicable). Team Medanta
+✅ Modal closed
+Message is now close and come back to the communication page
+✅ Navigated to 'Activity History' tab
+✅ Navigated to 'Ticket Details' tab
+✅ Navigated back to list page
+More Filters opened
+'Agent' filter clicked — any selection or blank is acceptable
+'Branch' filter clicked — any selection or blank is acceptable
+'Ticket Type' filter clicked — any selection or blank is acceptable
+'Ticket Sub Type' filter clicked — any selection or blank is acceptable
+'Category' filter clicked — any selection or blank is acceptable
+'Priority' filter clicked — any selection or blank is acceptable
+'Source' filter clicked — any selection or blank is acceptable
+More Filters closed
+Download button clicked
+Report Type: ticket_report
+Date range: Start=4, End=7
+✅ Start date selected: 4
+✅ End date selected: 7
+Email entered: rsingh@medanta.org
+✅ Report submitted — email will be sent
+Navigated to 'Closed' tab
+🔍 Rows found: 20
+📌 Closed (18) Tickets Count: Closed (18)
+✅ 1st ticket opened successfully
+✅ Navigated to 'Transactions' tab
+✅ Patient dropdown opened
+📋Associated lead : Total contacts: 12
+✅ First patient selected
+📋 Patient Name: Mr. Abhay Pratap Singh
+User click on 3dot to view the history of the appointment
+History of this transaction has been open
+isotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+History section closed
+✅ Navigated to 'Communication History' tab
+View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Mr. Suraj Kumar Singh, This is a gentle reminder for your Advanced Lung Screening appointment at Medanta Hospital, Gurugram on 2026-08-14 between 9:00 AM and 10:00 AM. For further assistance, please call Medanta Support at 8800001068. Team Medanta
+✅ Modal closed
+Message is now close and come back to the communication page
+✅ Navigated to 'Activity History' tab
+✅ Navigated to 'Ticket Details' tab
+✅ Navigated back to list page
+✅ 'Closed' tab flow complete
+Navigated to 'Follow-up' tab
+🔍 Rows found: 8
+📌 Follow-Up (4) Tickets Count: Follow-Up (4)
+✅ 1st ticket opened successfully
+✅ Navigated to 'Transactions' tab
+✅ Patient dropdown opened
+📋Associated lead : Total contacts: 12
+✅ First patient selected
+📋 Patient Name: Mr. Md Ashfaque Ansari
+User click on 3dot to view the history of the appointment
+History of this transaction has been open
+isotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+History section closed
+✅ Navigated to 'Communication History' tab
+View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Mr. Md Ashfaque Ansari, Your In-Hospital Consultation appointment with Dr Sangeet Sawrav on 2026-05-22 at 3:50 PM has been cancelled. Please contact us at 8800001068 or use our app https://betamedi-ui.medanta.org:5443/patient/download to book another appointment. Team Medanta
+✅ Modal closed
+Message is now close and come back to the communication page
+✅ Navigated to 'Activity History' tab
+✅ Navigated to 'Ticket Details' tab
+✅ Navigated back to list page
+✅ 'Follow-up' tab flow complete
+Navigated to 'On-hold' tab
+🔍 Rows found: 4
+📌 On-Hold (2) Tickets Count: On-Hold (2)
+✅ 1st ticket opened successfully
+✅ Navigated to 'Transactions' tab
+✅ Patient dropdown opened
+📋Associated lead : Total contacts: 2
+✅ First patient selected
+📋 Patient Name: Mr. Diwakar Bisht
+User click on 3dot to view the history of the appointment
+History of this transaction has been open
+isotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+History section closed
+✅ Navigated to 'Communication History' tab
+View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Mr. Diwakar Bisht, we've received your payment of Rs. 2000 with transaction ID pay_TMmD4UHUWcdsJY. Your In-Hospital Consultation appointment with Dr Sanjay Mittal at Medanta Hospital, Gurugram on 2026-08-07 at 12:25 PM is confirmed. Team Medanta
+✅ Modal closed
+Message is now close and come back to the communication page
+✅ Navigated to 'Activity History' tab
+✅ Navigated to 'Ticket Details' tab
+✅ Navigated back to list page
+✅ 'On-hold' tab flow complete
+Navigated to 'Expired' tab
+🔍 Rows found: 20
+📌 Expired (10) Tickets Count: Expired (10)
+✅ 1st ticket opened successfully
+✅ Navigated to 'Transactions' tab
+✅ Patient dropdown opened
+📋Associated lead : Total contacts: 12
+✅ First patient selected
+📋 Patient Name: Mrs. Temt Patiemt
+User click on 3dot to view the history of the appointment
+History of this transaction has been open
+isotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+History section closed
+✅ Navigated to 'Communication History' tab
+View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Mr. Bhavik Chugh, this is a gentle reminder for your VC Consultation appointment with Dr Honey Choudhary on 2026-09-08 at 5:00 PM. Please join the video call via the Medanta App: https://betamedi-ui.medanta.org:5443/patient/download or through the web:  https://betamedi-ui.medanta.org:5443/landing. Kindly log in at least 10 minutes before the appointment. Use this link to upload relevant documents https://betamedi-ui.medanta.org:5443/patient/download. For further assistance, please call Medanta Support at 8800001068. Team Medanta
+✅ Modal closed
+Message is now close and come back to the communication page
+✅ Navigated to 'Activity History' tab
+✅ Navigated to 'Ticket Details' tab
+✅ Navigated back to list page
+✅ 'Expired' tab flow complete
+Navigated to 'Invalid' tab
+🔍 Rows found: 18
+📌 Invalid (9) Tickets Count: Invalid (9)
+✅ 1st ticket opened successfully
+✅ Navigated to 'Transactions' tab
+✅ Patient dropdown opened
+📋Associated lead : Total contacts: 12
+✅ First patient selected
+📋 Patient Name: Mr. Sanjay Mishra
+User click on 3dot to view the history of the appointment
+History of this transaction has been open
+isotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+History section closed
+✅ Navigated to 'Communication History' tab
+View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Mr. Satendra Mishra, This is a gentle reminder that payment for your In-Hospital Consultation appointment with Dr Sanjay Mittal at Medanta Hospital, Gurugram on 2026-08-25 at 10:15 AM is pending. Kindly complete your payment using our app: https://betamedi-ui.medanta.org:5443/patient/download or through this link: http://medantabeta-medi-ui.hlthclub.in/MEDNTA/r/u/b_08efc4b410b9178762471306 at your earliest convenience to avoid the line. Please note : Nursing assessment location Room No - 29/44 2nd Floor (EHC) and OPD location 2nd Floor (EHC) Room No - 10.  For further assistance, please call Medanta Support at 8800001068. Team Medanta
+✅ Modal closed
+Message is now close and come back to the communication page
+✅ Navigated to 'Activity History' tab
+✅ Navigated to 'Ticket Details' tab
+✅ Navigated back to list page
+✅ 'Invalid' tab flow complete
+Leads tab opened
+✅ Calendar clicked
+✅ Date filter cleared
+🔍 Rows found: 10
+📌 New (87) Leads Count: New (87)
+✅ 1st lead opened successfully
+✅ Navigated to 'Transactions' tab
+✅ Patient dropdown opened
+📋Associated lead : Total contacts: 8
+✅ First patient selected
+📋 Patient Name: Mr. Testing Teams
+User click on 3dot to view the history of the appointment
+History of this transaction has been open
+isotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+History section closed
+✅ Navigated to 'Communication History' tab
+View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Mr. Testing Team, your Lab service(s) appointment at Medanta Hospital, Gurugram on 2026-09-07 between 7:50 PM and 8:00 PM is confirmed. Please make your payment using our app at https://betamedi-ui.medanta.org:5443/patient/download or via this link: http://medantabeta-medi-ui.hlthclub.in/MEDNTA/r/u/b_fcfa41b5df6e1afd4e7a2903. You can also pay directly at the center. Kindly ignore this message if payment has already been made.Team Medanta
+✅ Modal closed
+Message is now close and come back to the communication page
+✅ Navigated to 'Activity History' tab
+✅ Navigated to 'Lead Details' tab
+✅ Navigated back to list page
+Navigated to 'Follow-up' tab
+🔍 Rows found: 8
+📌 Follow-Up (4) Leads Count: Follow-Up (4)
+✅ 1st lead opened successfully
+✅ Navigated to 'Transactions' tab
+✅ Patient dropdown opened
+📋Associated lead : Total contacts: 8
+✅ First patient selected
+📋 Patient Name: Mr. Testing Teams
+User click on 3dot to view the history of the appointment
+History of this transaction has been open
+isotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+History section closed
+✅ Navigated to 'Communication History' tab
+View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Mr. Testing Team, your Lab service(s) appointment at Medanta Hospital, Gurugram on 2026-09-07 between 7:50 PM and 8:00 PM is confirmed. Please make your payment using our app at https://betamedi-ui.medanta.org:5443/patient/download or via this link: http://medantabeta-medi-ui.hlthclub.in/MEDNTA/r/u/b_fcfa41b5df6e1afd4e7a2903. You can also pay directly at the center. Kindly ignore this message if payment has already been made.Team Medanta
+✅ Modal closed
+Message is now close and come back to the communication page
+✅ Navigated to 'Activity History' tab
+✅ Navigated to 'Lead Details' tab
+✅ Navigated back to list page
+✅ 'Follow-up' tab flow complete
+Navigated to 'Converted' tab
+🔍 Rows found: 2
+📌 Converted (1) Leads Count: Converted (1)
+✅ 1st lead opened successfully
+✅ Navigated to 'Transactions' tab
+✅ Patient dropdown opened
+📋Associated lead : Total contacts: 8
+✅ First patient selected
+📋 Patient Name: Mr. Testing Teams
+User click on 3dot to view the history of the appointment
+History of this transaction has been open
+isotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+History section closed
+✅ Navigated to 'Communication History' tab
+View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Mr. Testing Team, your Lab service(s) appointment at Medanta Hospital, Gurugram on 2026-09-07 between 7:50 PM and 8:00 PM is confirmed. Please make your payment using our app at https://betamedi-ui.medanta.org:5443/patient/download or via this link: http://medantabeta-medi-ui.hlthclub.in/MEDNTA/r/u/b_fcfa41b5df6e1afd4e7a2903. You can also pay directly at the center. Kindly ignore this message if payment has already been made.Team Medanta
+✅ Modal closed
+Message is now close and come back to the communication page
+✅ Navigated to 'Activity History' tab
+✅ Navigated to 'Lead Details' tab
+✅ Navigated back to list page
+✅ 'Converted' tab flow complete
+Navigated to 'Denied' tab
+🔍 Rows found: 2
+📌 Denied (1) Leads Count: Denied (1)
+✅ 1st lead opened successfully
+✅ Navigated to 'Transactions' tab
+✅ Patient dropdown opened
+📋Associated lead : Total contacts: 8
+✅ First patient selected
+📋 Patient Name: Mr. Testing Teams
+User click on 3dot to view the history of the appointment
+History of this transaction has been open
+isotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+History section closed
+✅ Navigated to 'Communication History' tab
+View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Mr. Testing Team, your Lab service(s) appointment at Medanta Hospital, Gurugram on 2026-09-07 between 7:50 PM and 8:00 PM is confirmed. Please make your payment using our app at https://betamedi-ui.medanta.org:5443/patient/download or via this link: http://medantabeta-medi-ui.hlthclub.in/MEDNTA/r/u/b_fcfa41b5df6e1afd4e7a2903. You can also pay directly at the center. Kindly ignore this message if payment has already been made.Team Medanta
+✅ Modal closed
+Message is now close and come back to the communication page
+✅ Navigated to 'Activity History' tab
+✅ Navigated to 'Lead Details' tab
+✅ Navigated back to list page
+✅ 'Denied' tab flow complete
+Navigated to 'Closed' tab
+🔍 Rows found: 4
+📌 Closed (2) Leads Count: Closed (2)
+✅ 1st lead opened successfully
+✅ Navigated to 'Transactions' tab
+✅ Patient dropdown opened
+📋Associated lead : Total contacts: 8
+✅ First patient selected
+📋 Patient Name: Mr. Testing Teams
+User click on 3dot to view the history of the appointment
+History of this transaction has been open
+isotry of this transaction has been open and Patient Journey is visibile
+✅ Modal closed
+History section closed
+✅ Navigated to 'Communication History' tab
+View message button is working fine and user able to view the last sms
+📩 Complete SMS Message: Message
+Dear Mr. Testing Team, your Lab service(s) appointment at Medanta Hospital, Gurugram on 2026-09-07 between 7:50 PM and 8:00 PM is confirmed. Please make your payment using our app at https://betamedi-ui.medanta.org:5443/patient/download or via this link: http://medantabeta-medi-ui.hlthclub.in/MEDNTA/r/u/b_fcfa41b5df6e1afd4e7a2903. You can also pay directly at the center. Kindly ignore this message if payment has already been made.Team Medanta
+✅ Modal closed
+Message is now close and come back to the communication page
+✅ Navigated to 'Activity History' tab
+✅ Navigated to 'Lead Details' tab
+✅ Navigated back to list page
+✅ 'Closed' tab flow complete
+🔍 Rows found: 20
+📌 New (87) Leads Count: New (87)
+✅ 1st lead opened successfully
+Doctor Consult clicked
+All Bookings tab clicked
+New Booking tab clicked
+Region dropdown clicked
+✅ Region selected : <selenium.webdriver.remote.webelement.WebElement (session="d4bdd442215faecc7b567864bc705c1a", element="f.A1266020F8EAF059671DD525B8B8DC1B.d.071E7B28B1F6072E93F9FF1B3ECAB6C9.e.90074")>
+✅ Hospital selected : <selenium.webdriver.remote.webelement.WebElement (session="d4bdd442215faecc7b567864bc705c1a", element="f.A1266020F8EAF059671DD525B8B8DC1B.d.071E7B28B1F6072E93F9FF1B3ECAB6C9.e.90110")>
+✅ Doctor dropdown is clicked successfully
+Sanjay Mittal selected
+✅ Doctor selected: Dr Sanjay Mittal
+Search clicked
+✅ Earliest availability clicked
+✅ Select Slot clicked
+✅ Modal closed
+✅ Select Slot clicked again for booking
+Looking for available time slots...
+✅ Slot selected: 3:05 AM
+✅ Add to cart clicked
+✅ Proceed to cart clicked
+⚠️ Could not edit consult slot: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7afd4e035+5745]
+	chromedriver!(No symbol) [0x7ff7afc76a90]
+	chromedriver!(No symbol) [0x7ff7afaa5d7d]
+	chromedriver!(No symbol) [0x7ff7afb009ea]
+	chromedriver!(No symbol) [0x7ff7afb00cfc]
+	chromedriver!(No symbol) [0x7ff7afb518f7]
+	chromedriver!(No symbol) [0x7ff7afb4e502]
+	chromedriver!(No symbol) [0x7ff7afaf2e4b]
+	chromedriver!(No symbol) [0x7ff7afaf3d83]
+	chromedriver!GetHandleVerifier [0x7ff7b0162f8b+41a69b]
+	chromedriver!GetHandleVerifier [0x7ff7b0190132+447842]
+	chromedriver!GetHandleVerifier [0x7ff7b0183e7e+43b58e]
+	chromedriver!GetHandleVerifier [0x7ff7afe43f5e+fb66e]
+	chromedriver!(No symbol) [0x7ff7afc8419c]
+	chromedriver!(No symbol) [0x7ff7afc7fdd4]
+	chromedriver!(No symbol) [0x7ff7afc7ff64]
+	chromedriver!(No symbol) [0x7ff7afc6a91c]
+	KERNEL32!BaseThreadInitThunk [0x7ff873ffccb7+17]
+	ntdll!RtlUserThreadStart [0x7ff874caad6c+2c]
+
+⏭️ Skipping slot edit...
+
+❌ CRITICAL ERROR in main flow: Message: element click intercepted: Element <button type="button" class="ant-btn ant-btn-default ant-btn-sm crm-outline-btn crm-outline-btn-sm">...</button> is not clickable at point (1193, 702). Other element would receive the click: <div tabindex="-1" class="ant-modal-wrap ant-modal-centered">...</div>
+  (Session info: chrome=152.0.7977.75); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7afd4e035+5745]
+	chromedriver!(No symbol) [0x7ff7afc76a90]
+	chromedriver!(No symbol) [0x7ff7afaa5d7d]
+	chromedriver!(No symbol) [0x7ff7afb087e3]
+	chromedriver!(No symbol) [0x7ff7afb06413]
+	chromedriver!(No symbol) [0x7ff7afb03767]
+	chromedriver!(No symbol) [0x7ff7afb02630]
+	chromedriver!(No symbol) [0x7ff7afaf4d88]
+	chromedriver!(No symbol) [0x7ff7afb295ca]
+	chromedriver!(No symbol) [0x7ff7afaf4606]
+	chromedriver!(No symbol) [0x7ff7afb4e502]
+	chromedriver!(No symbol) [0x7ff7afaf2e4b]
+	chromedriver!(No symbol) [0x7ff7afaf3d83]
+	chromedriver!GetHandleVerifier [0x7ff7b0162f8b+41a69b]
+	chromedriver!GetHandleVerifier [0x7ff7b0190132+447842]
+	chromedriver!GetHandleVerifier [0x7ff7b0183e7e+43b58e]
+	chromedriver!GetHandleVerifier [0x7ff7afe43f5e+fb66e]
+	chromedriver!(No symbol) [0x7ff7afc8419c]
+	chromedriver!(No symbol) [0x7ff7afc7fdd4]
+	chromedriver!(No symbol) [0x7ff7afc7ff64]
+	chromedriver!(No symbol) [0x7ff7afc6a91c]
+	KERNEL32!BaseThreadInitThunk [0x7ff873ffccb7+17]
+	ntdll!RtlUserThreadStart [0x7ff874caad6c+2c]
+
