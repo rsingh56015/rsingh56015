@@ -150,10 +150,15 @@ def save_output_to_pdf():
 # ══════════════════════════════════════════════════════════════════
 def setup_driver():
     options = Options()
+    options.add_argument("--headless=new")          # required: no display on GitHub's servers
+    options.add_argument("--no-sandbox")             # required in CI containers
+    options.add_argument("--disable-dev-shm-usage")  # avoids crashes from low shared memory
+    options.add_argument("--disable-gpu")
+    options.add_argument("--window-size=1920,1080")  # replaces --start-maximized for headless
     options.add_argument("--force-device-scale-factor=0.80")
-    options.add_argument("--start-maximized")
-    #driver = webdriver.Chrome(options=options)
-    driver.maximize_window()
+
+    driver = webdriver.Chrome(options=options)
+    driver.set_window_size(1920, 1080)
     driver.execute_script("document.body.style.zoom='80%'")
     return driver
 
