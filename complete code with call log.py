@@ -152,7 +152,7 @@ def setup_driver():
     options = Options()
     options.add_argument("--force-device-scale-factor=0.80")
     options.add_argument("--start-maximized")
-    driver = webdriver.Chrome(options=options)
+    #driver = webdriver.Chrome(options=options)
     driver.maximize_window()
     driver.execute_script("document.body.style.zoom='80%'")
     return driver
